@@ -1,4 +1,4 @@
-package com.swissre.wxd.sfgpetclinic.model;
+package com.swissre.wxd.petclinicdata.model;
 
 public class Person {
 
